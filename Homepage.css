@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.navbar-brand{
+    font-weight: 700;
+    font-size: 26px;
+    font-family: 'robot';
+}
+
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link.active{
+    transform-style:uppercase;
+    color:black;
+}
+
+ .main{
+    background: url(./img/hp.jpg)no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-position: 50% 50%;
+ }
+ .main h1{
+    font-size: 4rem;
+    font-weight: 700;
+    font-family:'robot';
+
+ }
+ .main h2{
+    font-size: 3rem;
+    font-weight: 600;
+    font-family:'robot';
+
+ }
+ .main h5{
+    font-size: 2rem;
+    font-weight: 400;
+    font-family: 'robot'
+
+ }
+.main1{
+    background: url(./assets/ser.PNG)no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-position: 50% 50%;
+ }
+.btn1{
+   position: absolute;
+   bottom: 20;
+   
+}
+.main3{
+    background: url(./assets/servce.PNG)no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-position: 50% 50%;
+ }
+ .main4{
+    background: url(./assets/abt\ us.PNG)no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-position: 50% 50%;
+ }
+ 
+ 
